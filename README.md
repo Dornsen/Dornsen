@@ -19,6 +19,7 @@
 <tr style="border: none;">
 <td width="70%" style="border: none; padding: 20px; vertical-align: top; text-align: left;">
 > <b>Zakhar (Dornsen)</b> | Software Engineer | Kuopio, Finland<br>
+> 🌐 <b><a href="https://dornsen.github.io/" target="_blank">Portfolio/Website</a></b><br>
 > Academic: Software Engineering at KhPI<br><br>
 Building at the intersection of backend systems and game engines.<br><br>
 ⋆ Engineering <b>Nodo</b>: A scalable custom messaging architecture.<br>
