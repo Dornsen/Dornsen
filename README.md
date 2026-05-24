@@ -11,8 +11,9 @@
   </a>
 </p>
 
+
 <br>
-<b>👤 About me </b>
+<h2>👤 About me</h2>
 <hr style="border: 1px solid #222;">
 <table width="100%" style="border: none; background-color: transparent;">
 <tr style="border: none;">
@@ -30,6 +31,8 @@ Building at the intersection of backend systems and game engines.<br><br>
 </td>
 </tr>
 </table>
+
+
 
 ### ⚙️ Technologies
 <hr style="border: 1px solid #222;">
