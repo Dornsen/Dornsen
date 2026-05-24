@@ -48,10 +48,11 @@ Building at the intersection of backend systems and game engines.<br><br>
 
 <br>
 
-### 📈 Statistics
+<h2>📈 Statistics</h2>
 <hr style="border: 1px solid #222;">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dornsen&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dornsen&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=0d1117" height="150" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dornsen&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=0d1117" height="150" />
 </p>
 
