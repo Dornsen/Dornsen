@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dornsen/Dornsen/main/banner.gif" alt="Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="https://i.pinimg.com/originals/86/41/a4/8641a4adec1d2b10746d02e664f6f9da.gif" alt="Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zakhar-matvieiev-3a8231348/" target="_blank">
@@ -12,24 +12,24 @@
 </p>
 
 <br>
-
-### 👤 About me
+<b>👤 About me </b>
 <hr style="border: 1px solid #222;">
 <table width="100%" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td width="70%" style="border: none; padding: 20px; vertical-align: top;">
-      Hello there! I'm <b>Zakhar</b>, a Software Engineering student based in Finland.<br><br>
-      I enjoy diving deep into system architecture, backend development, and game engines. Currently, I'm focusing on building scalable systems for my custom messenger <b>UChat</b>, and implementing new Input System mechanics for a <b>2D RPG</b> in Unity.<br><br>
-      🎓 Studying Software Engineering<br>
-      💻 Exploring multithreading and graphics rendering
-    </td>
-    <td width="30%" style="border: none; text-align: center; vertical-align: middle;">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Animation" />
-    </td>
-  </tr>
+<tr style="border: none;">
+<td width="70%" style="border: none; padding: 20px; vertical-align: top; text-align: left;">
+> <b>Zakhar (Dornsen)</b> | Software Engineer | Kuopio, Finland<br>
+> Academic: Software Engineering at KhPI<br><br>
+Building at the intersection of backend systems and game engines.<br><br>
+⋆ Engineering <b>Nodo</b>: A scalable custom messaging architecture.<br>
+⋆ Developing a <b>2D RPG</b> in Unity.<br>
+⋆ Architecting <b>Kiri</b>: A Japanese-themed web card game.<br>
+⋆ Deep diving into multithreading, C/C++ rendering pipelines, and clean architecture.
+</td>
+<td width="30%" style="border: none; text-align: center; vertical-align: middle;">
+<img src="https://i.pinimg.com/originals/70/b0/40/70b040cdc3356cfb8c15dfad0650a24e.gif" width="360" alt="Animation" />
+</td>
+</tr>
 </table>
-
-<br>
 
 ### ⚙️ Technologies
 <hr style="border: 1px solid #222;">
